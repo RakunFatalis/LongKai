@@ -1,4 +1,4 @@
-README - Dự án chưa hoàn thành
+- Dự án chưa hoàn thành
 Xin lưu ý: Đây là phiên bản chưa hoàn thành của dự án. Hãy cẩn thận khi sử dụng và đảm bảo rằng bạn hiểu rằng các tính năng và chức năng có thể chưa hoàn chỉnh và chưa được kiểm chứng.
 
 Thông báo về sự không chịu trách nhiệm
